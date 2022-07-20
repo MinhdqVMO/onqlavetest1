@@ -177,7 +177,7 @@ func main() {
 What expteced as the outcome of this challenge is:
 
 - Firstly explain what problem the design is trying to address
-- Branch out from main
+- Branch out from main - test*
 - Setup proper go module initialisation
 - Structure your code based on what you believe would be the best practice - please indicate the reason
 - Any improvement in design is appreciated - please indicate the reason
